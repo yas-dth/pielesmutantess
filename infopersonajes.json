@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sparl",
+    "imagen": "Personaje1.png",
+    "descripcion": "La pasarela exige cuerpos perfectos y tallas exactas. Yo no cumplo con esas reglas y no quiero hacerlo. Mi cuerpo es diferente, auténtico y real, y eso no debería ser un problema. Mi cuerpo es diferente, auténtico y real, y eso no debería ser un problema.",
+    "alt": "Conejo caracol"
+  },
+  {
+    "id": 2,
+    "nombre": "Krumi",
+    "imagen": "Personaje2.png",
+    "descripcion": "La moda busca que todos los cuerpos se ajusten a un ideal imposible. Me vistieron con ropa cara y elegante, pero eso no cambia quién soy. La pasarela a menudo ignora la personalidad y el carácter de cada persona. Yo camino mostrando que la autenticidad vale más que cualquier etiqueta.",
+    "alt": "Elefante mariposa"
+  },
+  {
+    "id": 3,
+    "nombre": "Gelk",
+    "imagen": "Personaje3.png",
+    "descripcion": "La moda celebra lo salvaje solo si se puede controlar y domar. Me miran como un accesorio en vez de un ser único. No quiero adaptarme a los estereotipos, quiero moverme y jugar a mi manera.",
+    "alt": "Foca gato"
+  },
+  {
+    "id": 4,
+    "nombre": "Zarplu",
+    "imagen": "Personaje4.png",
+    "descripcion": "Los espejos y la pasarela siempre dicen corrige esto o mejora aquello. Se espera simetría y perfección, pero eso no refleja la realidad de los cuerpos. Yo elijo mostrar mis imperfecciones y mi forma auténtica. La moda debería aceptar la diversidad, no intentar uniformarla.",
+    "alt": "Tigre pájaro"
+  },
+  {
+    "id": 5,
+    "nombre": "Talok",
+    "imagen": "Personaje5.png",
+    "descripcion": "La ropa de moda quiere cubrir todo lo que no encaja en los estándares.Mis cicatrices y marcas no coinciden con esas reglas, y eso está bien. Cada detalle de mi cuerpo cuenta una historia que la pasarela ignora.",
+    "alt": "Lagarto águila"
+  },
+  {
+    "id": 6,
+    "nombre": "Oktar",
+    "imagen": "Personaje6.png",
+    "descripcion": "La pasarela tradicional es estricta: hay pasos, poses y formas correctas. Yo camino como quiero, con mi propio ritmo y estilo. Los estereotipos de belleza no determinan mi valor ni mi presencia.",
+    "alt": "Pulpo lobo"
+  }
+]
