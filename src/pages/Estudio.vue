@@ -77,9 +77,9 @@ import Personaje4 from '../assets/personajes/Personaje4.png';
 import Imagen1 from '../assets/estudio/Alas.png';
 import Imagen2 from '../assets/estudio/Buho.png';
 import Imagen3 from '../assets/estudio/Cola.png';
-import Imagen4 from '../assets/personajes/Personaje4.png';
-import Imagen5 from '../assets/personajes/Personaje5.png';
-import Imagen6 from '../assets/personajes/Personaje6.png';
+import Imagen4 from '../assets/estudio/Gorro.png';
+import Imagen5 from '../assets/estudio/Bolso.png';
+import Imagen6 from '../assets/estudio/Monoculo.png';
 
 export default {
   name: "Estudio",
