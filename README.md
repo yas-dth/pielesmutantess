@@ -5,25 +5,26 @@ El proyecto cuestiona los estereotipos de belleza y la rigidez de la moda, mostr
 
 # Intercciones principales
 
-Focos:
+Pasarela
 
-  Clic: encender o apagar
+- Focos:
   
-  Doble clic: cambiar color
+  - Clic: encender o apagar
+  - Doble clic: cambiar color
   
   
-Animales:
+- Animales:
 
-  Hover: efecto glitch
+  - Hover: efecto glitch
   
 
 Estudio:
 
-  Drag & Drop: arrastrar personajes
+  - Drag & Drop: arrastrar personajes
   
-  Cambiar personaje
+  - Cambiar personaje
   
   
 Backstage:
 
-  Clic sobre personajes: abre detalles
+  - Clic sobre personajes: abre detalles
